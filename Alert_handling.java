@@ -13,7 +13,7 @@ public class Alert_handling {
 
         Thread.sleep(1000);
         driver.get("http://demo.guru99.com/test/delete_customer.php");
-        Thread.sleep(1000);
+        Thread.sleep(2000);
 
         //'cancel' = dismiss and 'accept' = OK
 
